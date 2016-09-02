@@ -1,5 +1,5 @@
 {
-  "name": "@rea/last-npm-release",
+  "name": "@reajet/last-npm-release",
   "description": "Get version of last npm release of some package",
   "version": "0.0.0",
   "main": "dist/index.js",
